@@ -11,7 +11,8 @@ export const metadata: Metadata = {
   description: "Šumski Drugari - vesele dječije pjesmice sa šumskim prijateljima. Pjevaj s nama uz Medu, Zeku, Lisicu i Ptičicu!",
   generator: "v0.app",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icon.png",
+    apple: "/icon.png",
   },
 }
 
