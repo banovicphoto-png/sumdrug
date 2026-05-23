@@ -69,9 +69,9 @@ export function HeroSection() {
 
         {/* Title with gradient */}
         <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-4 text-balance">
-          Dobrodosli u{" "}
+          Dobrodošli u{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-600 via-green-500 to-yellow-500 animate-gradient relative">
-            sumu
+            šumu
             <svg
               className="absolute -bottom-2 left-0 w-full"
               viewBox="0 0 200 12"
@@ -89,8 +89,8 @@ export function HeroSection() {
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty leading-relaxed">
-          Vesele djecije pjesmice sa sumskim prijateljima! Zapjevaj s nama i upoznaj 
-          Medu, Zeku, Lisicu i Pticicu u sumskim avanturama punim smijeha i ucenja.
+          Vesele dječije pjesmice sa šumskim prijateljima! Zapjevaj s nama i upoznaj 
+          Medu, Zeku, Lisicu i Ptičicu u šumskim avanturama punim smijeha i učenja.
         </p>
 
         {/* CTA Buttons */}

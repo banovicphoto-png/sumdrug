@@ -5,6 +5,7 @@ import { VideosSection } from "@/components/videos-section"
 import { TikTokSection } from "@/components/tiktok-section"
 import { GamesTeaser } from "@/components/games-teaser"
 import { Footer } from "@/components/footer"
+import { FloatingSubscribe } from "@/components/floating-subscribe"
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <TikTokSection />
       <GamesTeaser />
       <Footer />
+      <FloatingSubscribe />
     </main>
   )
 }

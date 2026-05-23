@@ -12,7 +12,7 @@ interface Video {
 
 const videos: Video[] = [
   {
-    title: "Medo Buc",
+    title: "Medo Buć",
     thumbnail: "/images/medo-buc.jpg",
     url: "https://www.youtube.com/watch?v=VQwEyqkH-0M",
   },
@@ -35,6 +35,11 @@ const videos: Video[] = [
     title: "Medo Rambo Vozi Lambo",
     thumbnail: "/images/medo-lambo.jpg",
     url: "https://www.youtube.com/watch?v=58nxxR-MbJk",
+  },
+  {
+    title: "Medo Pravi Kućicu",
+    thumbnail: "/images/medo-kucica.jpg",
+    url: "https://www.youtube.com/watch?v=3_NWkttUTlg",
   },
 ]
 
